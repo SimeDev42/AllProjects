@@ -1,7 +1,7 @@
 function OpenCreator(){
-    document.location = "/PascalTriangle/index.html";
+    document.location = "/PascalTriangle/pascaltriangle.html";
 }
 
 function OpenSolver(){
-    document.location = "/BinomialSolver/index.html";
+    document.location = "/BinomialSolver/binomialsolver.html";
 }
